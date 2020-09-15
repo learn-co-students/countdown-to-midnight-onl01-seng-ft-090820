@@ -12,8 +12,8 @@ while number > 0
   sleep(5)
   number -= 1
 end
-  "HAPPY NEW YEAR!"
-end
+  #"HAPPY NEW YEAR!"
+#end
 
  def countdown_with_sleep(count)
     while count > 0
